@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.top{
+	position: absolute;
+	left: 600px;
+	width: 500px;
+}
+.content{
+	position: absolute;
+	left: 500px;
+	top: 200px;
+}
